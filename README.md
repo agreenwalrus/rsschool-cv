@@ -1,1 +1,1 @@
-https://agreenwalrus.github.io/rsschool-cv/cv
+[CV](https://agreenwalrus.github.io/rsschool-cv/cv)  
