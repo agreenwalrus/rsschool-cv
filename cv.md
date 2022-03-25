@@ -15,13 +15,13 @@ jul.runova@gmail.com
 * Working with technical documentation  
 * Working on the project with distributed team   
 ## Skill summary
-|                     |                                                           |
-|---------------------|-----------------------------------------------------------|
-|Programming languages|JavaScript, python                                         |
-|Web technologies     |node.js, Loopback                                          |
-|Database             |DB2                                                        |
-|VCS                  |Git                                                        |
-|Other                |Docker, Postman, Cirrus, MS Excel, IBM InfoSphere DataStage|
+|                       |                                                             |
+|-----------------------|-------------------------------------------------------------|
+| Programming languages | JavaScript, python                                          |
+| Web technologies      | node.js, Loopback                                           |
+| Database              | DB2                                                         |
+| VCS                   | Git                                                         |
+| Other                 | Docker, Postman, Cirrus, MS Excel, IBM InfoSphere DataStage |
 ## Languages
 * English - B2  
 * German - A1+  
