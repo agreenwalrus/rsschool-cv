@@ -15,7 +15,7 @@ jul.runova@gmail.com
 * Working with technical documentation  
 * Working on the project with distributed team   
 ## Skill summary
-|                       |                                                             |
+| Sphere                | Details                                                     |
 |-----------------------|-------------------------------------------------------------|
 | Programming languages | JavaScript, python                                          |
 | Web technologies      | node.js, Loopback                                           |
